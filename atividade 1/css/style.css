@@ -1,0 +1,48 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.meio{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 100vh;
+  gap: 1rem;
+}
+
+div#images{
+  position: relative;
+  justify-content: center;
+  align-items: center; 
+  width: 700px;
+  display: flex;
+}
+
+img#imgs{
+  position: absolute;
+  width: 100%;
+  border-radius: 10px;
+  transition: opacity .2s;
+  margin-bottom: 150px;
+}
+
+.caixa{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+    height: 200px;
+    color: #fff;
+    font-size: 1.2rem;
+    background: #000000;
+}
+ 
+.caixa1{
+  text-align: center;
+  color: #fff;
+}
+
