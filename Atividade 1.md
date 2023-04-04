@@ -1,4 +1,4 @@
-# LP
+# atividade 1
 O HTML começa com a declaração do tipo de documento e a definição da linguagem como português do Brasil. Em seguida, o cabeçalho inclui uma meta tag para definir o conjunto de caracteres como UTF-8, um link para um arquivo de estilo CSS chamado "style.css", um script JavaScript chamado "script.js" e um link para um arquivo de ícone de página. o título da página foi definido como "Bloodborne" e coloquei uma fonte personalizada chamada "wood" para mudar o estilo do texto da página, fiz isso com o CSS interno pois não consegui fazer funcionar dentro do CSS externo. E fiz duas classes "caixa" e "caixa1" para adicionar o estilo da fonte personalizada.
 O corpo da página tem o título principal como "Bloodborne" e um parágrafo para descrever a história do jogo. e também coloquei uma imagem do jogo e adicionei um id nela colocado como "imgs" e adicionei a ação onclick nela para ativar uma função do JavaScript chamada "passa()".
 
